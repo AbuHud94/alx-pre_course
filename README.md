@@ -1,2 +1,2 @@
 my git project
-coding requires resislience
+coding requires resilience
